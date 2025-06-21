@@ -49,7 +49,7 @@ const About = () => {
               <div className="border-l-4 border-teal-600 pl-6 pb-6">
                 <div className="flex items-center gap-2 text-sm text-gray-500 mb-2">
                   <Calendar className="w-4 h-4" />
-                  Dec 2021 - Apr 2025
+                  Dec 2021 - May 2025
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">
                   B.Tech in Computer Science & Engineering
@@ -59,7 +59,7 @@ const About = () => {
                   Indian Institute of Information Technology Design & Manufacturing, Kurnool, AP
                 </div>
                 <p className="text-gray-700 mb-1">
-                  GPA: 7.4
+                  GPA: 7.5
                 </p>
               </div>
 
