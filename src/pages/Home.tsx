@@ -39,7 +39,7 @@ const Home = () => {
               </Link>
             </Button>
             <Button
-  onClick={() => window.open('https://drive.google.com/file/d/1cwjP6wwV5xk1VBoayrr3Ja4F5kfbO6kg/view?usp=sharing', '_blank')}
+  onClick={() => window.open('https://drive.google.com/file/d/18CYbR5QeMmmFRmQzPlDZb9bfeBkPRHoJ/view?usp=sharing', '_blank')}
   variant="outline"
   size="lg"
   className="border-teal-600 text-teal-600 hover:bg-teal-50"
