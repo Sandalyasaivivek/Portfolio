@@ -25,7 +25,7 @@ const Navbar = () => {
   };
 
 const handleResumeDownload = () => {
-  window.open('https://drive.google.com/file/d/1cwjP6wwV5xk1VBoayrr3Ja4F5kfbO6kg/view?usp=sharing', '_blank');
+  window.open('https://drive.google.com/file/d/18CYbR5QeMmmFRmQzPlDZb9bfeBkPRHoJ/view?usp=sharing', '_blank');
 };
 
 
