@@ -11,7 +11,7 @@ const Home = () => {
   ];
 
   const quickStats = [
-    { icon: Code, label: 'LeetCode Problems', value: '250+' },
+    { icon: Code, label: 'LeetCode Problems', value: '300+' },
     { icon: Award, label: 'CodeChef Rating', value: '3⭐' },
     { icon: Users, label: 'Internships', value: '3' },
     { icon: Target, label: 'Research Papers', value: '1' },
